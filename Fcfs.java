@@ -1,4 +1,3 @@
-package SchedulingAlgorithms;
 import java.util.Scanner;
 public class Fcfs {
 	public static void main(String[] args) {
