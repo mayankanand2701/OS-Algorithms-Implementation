@@ -44,13 +44,15 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+    
+  [![Mayank github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankanand2701&theme=react)](https://github.com/mayankanand2701/github-readme-activity-graph)
+
   <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=460 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankanand2701&theme=react" alt="mayankanand2701" />
@@ -62,5 +64,8 @@
 <br/><br/>
 
 <hr/>
+<h2 align="center">🔥 Badges 🔥</h2>
+<br>
 
+[![An image of @mayankanand2701's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankanand2701)](https://holopin.io/@mayankanand2701)
   
