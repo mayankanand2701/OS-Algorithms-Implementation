@@ -47,7 +47,7 @@
     
   [![Mayank github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankanand2701&theme=react)](https://github.com/mayankanand2701/github-readme-activity-graph)
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
